@@ -13,12 +13,14 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
     * Każdy rodzaj posiada kilka (5-6) konkretnych realizacji.
     * Wymyślić i wytworzyć kod opisujący produkty i ich rodzaje.
 
-1. Dla rozdzielenia procesu wytwarzania obiektów od klas klienta zastosować fabrykę zaimplementowaną jako singleton.  Zaprezentować pozytywne i negatywne skutki zastosowania:
+1. Dla rozdzielenia procesu wytwarzania obiektów od klas klienta z poprzedniego punktu, 
+	zastosować fabrykę zaimplementowaną jako singleton. 
+	Zaprezentować pozytywne i negatywne skutki zastosowania:
     * fabryki prostej
     * fabryki z metodą wytwórczą
     * fabryki abstrakcyjnej
 
-1. Porównać złożoność i efektywność działania fabryk z punktu 2.
+1. Porównać złożoność i efektywność działania fabryk z poprzedniego punktu
    z fabryką używającą rejestracji klas z wykorzystaniem refleksji oraz bez wykorzystania refleksji
 
 Do zaproponowanych rozwiązań załączyć odpowiednie testy wydajnościowe / funkcjonalne.
