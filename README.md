@@ -19,7 +19,8 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
     * fabryki prostej
     * fabryki z metodą wytwórczą
     * fabryki abstrakcyjnej
-    do wytwarzania obiektów z poprzedniego punktu.
+    	
+	do wytwarzania obiektów z poprzedniego punktu.
 
 1. Porównać złożoność i efektywność działania fabryk z poprzedniego punktu
    z fabryką używającą rejestracji klas z wykorzystaniem refleksji oraz bez wykorzystania refleksji.
