@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 31.03.2023 23:00|  10       |
+| 22.04.2023 23:00|  10       |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -19,9 +19,11 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
     * fabryki prostej
     * fabryki z metodą wytwórczą
     * fabryki abstrakcyjnej
+    do wytwarzania obiektów z poprzedniego punktu.
 
 1. Porównać złożoność i efektywność działania fabryk z poprzedniego punktu
-   z fabryką używającą rejestracji klas z wykorzystaniem refleksji oraz bez wykorzystania refleksji
+   z fabryką używającą rejestracji klas z wykorzystaniem refleksji oraz bez wykorzystania refleksji.
+   Wykorzystać profiler kodu lub równoważną technikę/technologię.
 
 Do zaproponowanych rozwiązań załączyć odpowiednie testy wydajnościowe / funkcjonalne.
 Można używać narzędzi do profilowania kodu dedykowanych danej technologii. 
